@@ -1,0 +1,18 @@
+.rating-card{
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: repeat (3, 32%);
+    justify-content: space-between;
+    row-gap: 20px;
+    width: 100%;
+}
+
+.rating-label{
+    width: 100%;
+    display: inline-flex;
+}
+
+.rating-column {
+    display: inline;
+    background-color: lightgray;
+}

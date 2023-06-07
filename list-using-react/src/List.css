@@ -1,0 +1,25 @@
+.list-card {
+    padding: 20px;
+    border: 2px solid #666;
+  }
+  
+  img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: #333;
+    margin-bottom: 20px;
+    float:left;
+    display:flex;
+  }
+  span{
+    float:left;
+    width:100%;
+  }
+  
